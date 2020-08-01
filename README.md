@@ -1,5 +1,5 @@
 # hello-world
-Just another repository.
+
 
 You're probably asking yourself, "Why am I here?" and, "Who is Shou Saito?"
 
